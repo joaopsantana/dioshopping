@@ -13,8 +13,8 @@ Modificações:
 
 📸 Cards dos produtos da loja - Foto:
 
-![plot](snapshot-1.png)
+![plot](screenshot-1.png)
 
 📸 Formulário:
 
-![plot](snapshot-2.png)
+![plot](screenshot-2.png)
